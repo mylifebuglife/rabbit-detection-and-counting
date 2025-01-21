@@ -9,7 +9,6 @@ The system leverages TensorFlow Lite for efficient real-time detection and count
 - Tracking movements of rabbits across farm sections separated by barriers.
 - Exporting results to a CSV file for reporting and analysis.
 
-Watch the demo video: [Demo Video](./demo.mp4)
 **Read the full Documentation here:** [Automated Rabbit detection and counting in Rabbit farms](https://dg-ai.gitbook.io/ai-rabbit-classification)
 
 ---
