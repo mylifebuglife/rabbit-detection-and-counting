@@ -56,11 +56,11 @@ Before running the project, ensure the following are installed on your system:
 	```bash
 	python -m venv venv
 	source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
-```
-3.  **Install Dependencies **:
-```bash
-pip install -r requirements.txt
-```
+	```
+3.  **Install Dependencies **
+	```bash
+	pip install -r requirements.txt
+	```
 4.  **(Optional) Install LabelImg: If you want to annotate additional data, install the LabelImg tool:**:
 ```bash
 pip install labelImg
