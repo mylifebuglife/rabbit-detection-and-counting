@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-##How to Run
+###How to Run
 **Single Video Processing**
 Process a single video file and generate a rabbit count:
 ```bash
@@ -98,7 +98,7 @@ Launch the application and interact through the GUI:
 python app.py
 ```
 
-##Contributing
+###Contributing
 Contributions are welcome! Please follow these steps:
 
 **Fork this Repository:**
@@ -115,7 +115,7 @@ git checkout -b feature-branch
 **Submit a pull request**
 Once your changes are tested, submit a pull request.
 
-##Notes for Future Development
+###Notes for Future Development
 - Improve model accuracy using larger datasets and more advanced architectures.
 - Explore real-time anomaly detection for farm management.
 - Integrate the system with IoT devices for a fully automated farm monitoring solution.
