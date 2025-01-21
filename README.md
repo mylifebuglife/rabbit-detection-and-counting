@@ -52,12 +52,12 @@ Before running the project, ensure the following are installed on your system:
    git clone https://github.com/yourusername/rabbit-detection-and-counting.git
    cd rabbit-detection-and-counting
    ```
-2.  **Setup a virtual environment **:
+2.  **Setup a virtual environment**
 	```bash
 	python -m venv venv
 	source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
 	```
-3.  **Install Dependencies **
+3.  **Install Dependencies**
 	```bash
 	pip install -r requirements.txt
 	```
