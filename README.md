@@ -73,10 +73,12 @@ pip install labelImg
 conda create --name rabbit_env python=3.9 -y
 conda activate rabbit_env
 ```
-**Install Dependencies: Install the required libraries from the requirements.txt file:**
+**Install Dependencies: Install the required libraries from the requirements.txt file**
+
 ```bash
 pip install -r requirements.txt
 ```
+
 **Run the Application from Command Line: Launch the app directly from the terminal:**
 ```bash
 python app.py
